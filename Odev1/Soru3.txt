@@ -1,0 +1,12 @@
+Bir algoritmanın en kötü durumda çalışma süresi, algoritmanın veri seti üzerinde en yavaş çalışacağı senaryoyu ifade eder.
+
+En kötü durumda çalışma süresi, algoritmanın tasarımı ve uygulanması açısından önemlidir. 
+Çünkü algoritmanın çalışma süresi, performansını belirleyen önemli bir faktördür. 
+Bir algoritmanın en kötü durumda çalışma süresi, algoritmanın performansı hakkında bilgi sağlar ve algoritmanın ne kadar hızlı çalışabileceğini tahmin etmek için kullanılabilir.
+Örnek vermek gerekirse sıralanmış bir dizideki en büyük sayıyı bulmak için sıarlama algoritmamız tek tek elemenaları gezeceği için ve sonucuda en sonda bulacağından dolayı kötü bir çalışma süresi ortaya koyar.
+
+Sonuç olarak, bir algoritmanın en kötü durumda çalışma süresi, algoritmanın performansını belirleyen önemli bir faktördür. 
+Bu nedenle, algoritmanın tasarımı ve uygulanması sırasında en kötü durumda çalışma süresinin göz önünde bulundurulması 
+ve mümkün olan en iyi performansı sağlamak için optimize edilmesi gereklidir.
+
+

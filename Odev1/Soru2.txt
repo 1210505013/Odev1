@@ -1,0 +1,14 @@
+Bir algoritmanın çalışma süresi, veri boyutuna bağlı olarak değişir. 
+Veri boyutu arttıkça, algoritmanın çalışma süresi de artar. 
+Bu ilişki, algoritmanın zaman karmaşıklığı olarak adlandırılır ve algoritmanın veri boyutuna bağlı olarak nasıl bir performans sergileyeceğini belirler.
+
+Örneğin, bir algoritmanın zaman karmaşıklığı "O(n)" şeklinde ifade edilirse, bu, algoritmanın veri boyutu (n) ile doğru orantılı bir şekilde çalışacağı anlamına gelir. 
+Yani, veri boyutu arttıkça, algoritmanın çalışma süresi de artacaktır.
+
+Bununla birlikte, bazı algoritmalar, veri boyutu arttıkça daha az artan bir çalışma süresine sahip olabilirler. 
+Bu tür algoritmalar, genellikle daha verimli olarak adlandırılır ve daha büyük veri setleri üzerinde çalışırken daha iyi performans gösterirler. 
+
+Sonuç olarak, bir algoritmanın çalışma süresi, veri boyutuna bağlı olarak değişir ve bu ilişki, algoritmanın zaman karmaşıklığı tarafından belirlenir. 
+
+
+

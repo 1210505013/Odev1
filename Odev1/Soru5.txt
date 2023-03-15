@@ -1,0 +1,12 @@
+Big-O gösterimi, bir algoritmanın en kötü durumda çalışma süresini ifade eden bir notasyondur. 
+Bu notasyon, bir algoritmanın işlemci zamanı ve bellek kullanımı gibi performans özelliklerini tahmin etmek için kullanılır.
+
+Big-O gösterimi, bir algoritmanın işlemci zamanı ve bellek kullanımı ile girdi boyutu arasındaki ilişkiyi tanımlar. 
+Bu ilişki, algoritmanın büyük veri setleri üzerinde ne kadar iyi performans gösterebileceğini belirler.
+
+Örneğin, bir algoritmanın Big-O gösterimi "O(n^2)" ise, bu algoritmanın işlemci zamanının girdi boyutunun karesiyle doğru orantılı olduğunu gösterir. 
+Yani, girdi boyutu büyüdükçe, işlemci zamanı da karesel olarak artacaktır.
+
+Başka bir örnek olarak, bir algoritmanın Big-O gösterimi "O(log n)" ise, bu algoritmanın işlemci zamanının girdi boyutunun logaritması ile doğru orantılı olduğunu gösterir. 
+Yani, girdi boyutu ne kadar büyük olursa olsun, işlemci zamanı yalnızca logaritmik olarak artacaktır. 
+Bu tür algoritmalar genellikle verimli ve hızlıdır ve özellikle büyük veri setleri üzerinde iyi performans gösterirler.
